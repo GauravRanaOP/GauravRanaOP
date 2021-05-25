@@ -1,5 +1,4 @@
-   ### Hi there 👋
-Myself ##Gaurav Rana
+   ### Hi there 👋 ## Gaurav Rana
 <!--
 Here are some ideas to get you started:
 

@@ -1,4 +1,8 @@
    # Hi there 👋 Myself Gaurav Rana
+   - 🔭 I’m currently working on CoEdify
+   - 🌱 I’m currently learning Java/ReactJS
+
+
 <!--
 Here are some ideas to get you started:
 

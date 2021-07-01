@@ -1,6 +1,6 @@
    # Hi there 👋 Myself Gaurav Rana
-   - 🔭 I’m currently working on CoEdify
-   - 🌱 I’m currently learning Java/ReactJS
+   - 🔭 I’m currently working on NeoSoft Technologies
+   - 🌱 Skills: Core Java, Spring Boot, MYSQL, RestAPI, HTML, CSS, JAVASCRIPT.
 
 
 <!--

@@ -1,6 +1,6 @@
    # Hi there 👋 Myself Gaurav Rana
    - 🔭 I’m currently working on NeoSoft Technologies
-   - 🌱 Skills: Core Java, Spring Boot, Hibernate/JPA, MYSQL, RestAPI, HTML, CSS, JAVASCRIPT.
+   - 🌱 Skills: Core Java, Spring Boot, Hibernate/JPA, MYSQL, MongoDB, RestAPI, HTML, CSS, JAVASCRIPT.
 
 
 <!--

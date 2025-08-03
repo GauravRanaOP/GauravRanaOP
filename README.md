@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! I'm Gaurav, a software engineer with a BTech in Computer Science and Engineering. With over three years of hands-on experience in the field, I'm passionate about crafting efficient solutions to complex technical challenges. Let's connect and explore how we can innovate together!
+Hi there! I'm Gaurav, a senior software engineer . With over six years of hands-on experience in the field, I'm passionate about crafting efficient solutions to complex technical challenges. Let's connect and explore how we can innovate together!
 
 
 ## 🌐 Socials:

@@ -1,5 +1,9 @@
 # 💫 About Me:
-Hi there! I'm Gaurav, a senior software engineer . With over six years of hands-on experience in the field, I'm passionate about crafting efficient solutions to complex technical challenges. Let's connect and explore how we can innovate together!
+Results-driven 𝐉𝐚𝐯𝐚 𝐅𝐮𝐥𝐥 𝐒𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 with 𝟔 𝐲𝐞𝐚𝐫𝐬 of hands-on experience in designing, developing, and deploying scalable web applications using 𝐉𝐚𝐯𝐚 (𝐒𝐩𝐫𝐢𝐧𝐠 𝐁𝐨𝐨𝐭, 𝐒𝐩𝐫𝐢𝐧𝐠 𝐌𝐕𝐂, 𝐇𝐢𝐛𝐞𝐫𝐧𝐚𝐭𝐞) and 𝐉𝐚𝐯𝐚𝐒𝐜𝐫𝐢𝐩𝐭 (𝐑𝐞𝐚𝐜𝐭𝐉𝐒, 𝐍𝐨𝐝𝐞.𝐣𝐬, 𝐄𝐱𝐩𝐫𝐞𝐬𝐬.𝐣𝐬). Proven track record of delivering high-performance microservices, secure APIs, and intuitive UIs for enterprise clients like Adidar Technologies, Mahindra & Mahindra, Bluearise Technologies and LIC India.
+
+Skilled in building RESTful APIs, implementing role-based access control (RBAC), AES encryption, JWT authentication, and real-time messaging using 𝐖𝐞𝐛𝐒𝐨𝐜𝐤𝐞𝐭𝐬. Experienced in 𝐛𝐚𝐭𝐜𝐡 𝐩𝐫𝐨𝐜𝐞𝐬𝐬𝐢𝐧𝐠, 𝐒𝐀𝐏 𝐢𝐧𝐭𝐞𝐠𝐫𝐚𝐭𝐢𝐨𝐧𝐬, 𝐌𝐨𝐧𝐠𝐨𝐃𝐁, 𝐌𝐲𝐒𝐐𝐋, and 𝐄𝐥𝐚𝐬𝐭𝐢𝐜𝐬𝐞𝐚𝐫𝐜𝐡 for efficient data handling and storage.
+
+Proficient in deploying applications to 𝐀𝐖𝐒 (𝐄𝐂𝟐, 𝐒𝟑, 𝐑𝐃𝐒, 𝐈𝐀𝐌, 𝐃𝐲𝐧𝐚𝐦𝐨𝐃𝐁), utilizing 𝐃𝐨𝐜𝐤𝐞𝐫, 𝐉𝐞𝐧𝐤𝐢𝐧𝐬, and 𝐊𝐚𝐟𝐤𝐚 for CI/CD and messaging pipelines. Adept at Agile methodologies, collaborating with cross-functional teams, and creating developer-friendly documentation and reusable components.
 
 
 ## 🌐 Socials:
